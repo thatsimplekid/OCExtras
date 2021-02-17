@@ -1,0 +1,7 @@
+itemGroup.OCExtras.tabOCExtras=OCExtras
+tile.ocextras.gps_block.name=GPS Block
+tile.ocextras.boombox.name=Boom-Box
+
+lore.ocextras.toolong=Hold [§fLSHIFT§7] for a detailed tooltip.
+lore.ocextras:gps_block=Uses GPS to get the position of the GPS|block in the world.
+lore.ocextras:boombox=Holds onto an explosive of your choice, allowing|for the secure storage and detonation of your|ordnance! No need to worry about intruders!

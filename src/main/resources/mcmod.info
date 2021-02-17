@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ocextras",
+  "name": "OCExtras",
+  "description": "Extra stuff for OpenComputers.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["thatsimplekid"],
+  "credits": "GHXX for ideas",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
