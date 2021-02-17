@@ -6,4 +6,5 @@ steps:
 - name: build
   image: openjdk:8
   commands:
+  - chmod +x ./gradlew
   - ./gradlew build
